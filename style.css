@@ -36,6 +36,7 @@ button:active {
   margin-top: 20px;
   font-size: 18px;
   opacity: 0;
+  color: #000;
 }
 #weather img {
   width: 80px;
